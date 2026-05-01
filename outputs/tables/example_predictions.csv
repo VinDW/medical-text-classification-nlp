@@ -1,0 +1,7 @@
+medical_text,predicted_category
+I need to know if my medical aid covers dental treatment.,Medical aid benefits
+My chronic medication authorisation has expired.,Chronic care enquiry
+I submitted a claim but it has not been paid.,Claims enquiry
+I have chest pain and I am struggling to breathe.,Emergency guidance
+Can I take this antibiotic with food?,Medication enquiry
+Where can I find urgent emergency medical help?,Emergency guidance
