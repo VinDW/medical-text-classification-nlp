@@ -1,0 +1,7 @@
+category,number_of_examples,average_text_length,average_word_count,minimum_word_count,maximum_word_count
+Chronic care enquiry,10,46.1,7.9,6,10
+Claims enquiry,10,41.2,7.7,6,10
+Emergency guidance,10,47.4,7.9,5,11
+Medical aid benefits,10,41.8,7.1,5,10
+Medication enquiry,10,48.4,8.3,7,9
+Symptoms enquiry,10,44.6,8.8,7,11
