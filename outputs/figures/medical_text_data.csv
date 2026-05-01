@@ -1,0 +1,61 @@
+text,category,clean_text,text_length,word_count
+I have been experiencing chest discomfort and shortness of breath.,Symptoms enquiry,i have been experiencing chest discomfort and shortness of breath,66,10
+My child has a high fever and a sore throat.,Symptoms enquiry,my child has a high fever and a sore throat,44,10
+I feel dizzy and weak most mornings.,Symptoms enquiry,i feel dizzy and weak most mornings,36,7
+I have a persistent headache and blurred vision.,Symptoms enquiry,i have a persistent headache and blurred vision,48,8
+I am coughing and my body feels very tired.,Symptoms enquiry,i am coughing and my body feels very tired,43,9
+My stomach has been painful since yesterday.,Symptoms enquiry,my stomach has been painful since yesterday,44,7
+I have swelling in my feet and ankles.,Symptoms enquiry,i have swelling in my feet and ankles,38,8
+I feel pain in my back when I walk.,Symptoms enquiry,i feel pain in my back when i walk,35,9
+I have a rash on my arms and it is spreading.,Symptoms enquiry,i have a rash on my arms and it is spreading,45,11
+My throat is painful and I struggle to swallow.,Symptoms enquiry,my throat is painful and i struggle to swallow,47,9
+Can I take my blood pressure tablets with food?,Medication enquiry,can i take my blood pressure tablets with food,47,9
+I forgot to take my medication this morning.,Medication enquiry,i forgot to take my medication this morning,44,8
+Are there side effects from this antibiotic?,Medication enquiry,are there side effects from this antibiotic,44,7
+Can I collect my repeat prescription at the pharmacy?,Medication enquiry,can i collect my repeat prescription at the pharmacy,53,9
+I need information about my diabetes medication.,Medication enquiry,i need information about my diabetes medication,48,7
+Should I continue taking the tablets after feeling better?,Medication enquiry,should i continue taking the tablets after feeling better,58,9
+Can I take pain medication with my current treatment?,Medication enquiry,can i take pain medication with my current treatment,53,9
+My prescription is finished and I need a refill.,Medication enquiry,my prescription is finished and i need a refill,48,9
+I want to know if this medicine causes drowsiness.,Medication enquiry,i want to know if this medicine causes drowsiness,50,9
+How often should I take these capsules?,Medication enquiry,how often should i take these capsules,39,7
+I want to register for the chronic illness benefit.,Chronic care enquiry,i want to register for the chronic illness benefit,51,9
+How do I update my chronic medication details?,Chronic care enquiry,how do i update my chronic medication details,46,8
+My hypertension treatment must be reviewed.,Chronic care enquiry,my hypertension treatment must be reviewed,43,6
+I need help with my diabetes care plan.,Chronic care enquiry,i need help with my diabetes care plan,39,8
+Can I add asthma to my chronic condition profile?,Chronic care enquiry,can i add asthma to my chronic condition profile,49,9
+My chronic medication authorisation has expired.,Chronic care enquiry,my chronic medication authorisation has expired,48,6
+I need to submit documents for chronic care approval.,Chronic care enquiry,i need to submit documents for chronic care approval,53,9
+How do I renew my chronic treatment plan?,Chronic care enquiry,how do i renew my chronic treatment plan,41,8
+My doctor changed my chronic medication.,Chronic care enquiry,my doctor changed my chronic medication,40,6
+I want to check if my chronic condition is covered.,Chronic care enquiry,i want to check if my chronic condition is covered,51,10
+Does my plan cover dental treatment?,Medical aid benefits,does my plan cover dental treatment,36,6
+I want to know if my optical benefits are available.,Medical aid benefits,i want to know if my optical benefits are available,52,10
+How much hospital cover do I have?,Medical aid benefits,how much hospital cover do i have,34,7
+Does my medical aid cover specialist consultations?,Medical aid benefits,does my medical aid cover specialist consultations,51,7
+Can I use my benefits for physiotherapy?,Medical aid benefits,can i use my benefits for physiotherapy,40,7
+What maternity benefits are included in my plan?,Medical aid benefits,what maternity benefits are included in my plan,48,8
+Does my plan pay for blood tests?,Medical aid benefits,does my plan pay for blood tests,33,7
+I need to check my remaining day-to-day benefits.,Medical aid benefits,i need to check my remaining daytoday benefits,49,8
+Are mental health consultations covered?,Medical aid benefits,are mental health consultations covered,40,5
+Can I claim for prescribed glasses?,Medical aid benefits,can i claim for prescribed glasses,35,6
+I submitted a claim but have not received feedback.,Claims enquiry,i submitted a claim but have not received feedback,51,9
+Why was my medical claim rejected?,Claims enquiry,why was my medical claim rejected,34,6
+I want to track the status of my hospital claim.,Claims enquiry,i want to track the status of my hospital claim,48,10
+Please explain why the doctor claim was not paid.,Claims enquiry,please explain why the doctor claim was not paid,49,9
+My pharmacy claim is still pending.,Claims enquiry,my pharmacy claim is still pending,35,6
+I uploaded claim documents last week.,Claims enquiry,i uploaded claim documents last week,37,6
+How long does it take to process a claim?,Claims enquiry,how long does it take to process a claim,41,9
+The claim amount paid is lower than expected.,Claims enquiry,the claim amount paid is lower than expected,45,8
+Can I resubmit a rejected claim?,Claims enquiry,can i resubmit a rejected claim,32,6
+I need a statement for my recent claims.,Claims enquiry,i need a statement for my recent claims,40,8
+I need urgent help because someone is struggling to breathe.,Emergency guidance,i need urgent help because someone is struggling to breathe,60,10
+What should I do in a medical emergency?,Emergency guidance,what should i do in a medical emergency,40,8
+Where is the nearest emergency hospital?,Emergency guidance,where is the nearest emergency hospital,40,6
+I need an ambulance urgently.,Emergency guidance,i need an ambulance urgently,29,5
+Someone collapsed and needs immediate medical assistance.,Emergency guidance,someone collapsed and needs immediate medical assistance,57,7
+My child is having a severe allergic reaction.,Emergency guidance,my child is having a severe allergic reaction,46,8
+There was an accident and we need emergency care.,Emergency guidance,there was an accident and we need emergency care,49,9
+Who do I contact for urgent medical support?,Emergency guidance,who do i contact for urgent medical support,44,8
+I need emergency authorisation for hospital admission.,Emergency guidance,i need emergency authorisation for hospital admission,54,7
+This is an urgent health situation and I need help now.,Emergency guidance,this is an urgent health situation and i need help now,55,11
